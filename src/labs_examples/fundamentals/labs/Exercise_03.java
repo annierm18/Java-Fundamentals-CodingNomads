@@ -10,7 +10,7 @@ package labs_examples.fundamentals.labs;
  *
  */
 
-public class Main {
+public class Exercise_03 {
 
     public static void main(String[] args) {
 
@@ -20,6 +20,12 @@ public class Main {
         System.out.println("Hello World!");
         System.out.println("Check out my first program!");
 	    System.out.println("Annie test");
+
+	    int i = 10;
+	    int x = 12;
+	    int z = i + x;
+
+        System.out.println(z);
     }
 
 }
